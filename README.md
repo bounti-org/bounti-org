@@ -1,7 +1,7 @@
 bounti-org
 ==========
 
-    _Together, we can do anything._
+_Together, we can do anything._
 
 Purposes are drafted, discussed, improved, and organized.
 Circles form to achieve Purposes by carrying out Projects.
