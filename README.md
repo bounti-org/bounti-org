@@ -27,7 +27,7 @@ Information Model
 Main Ingredients
 ----------------
 
-* [Holocracy](http://holacracy.org/) provides the guiding organizational principles, 
+* [Holacracy](http://holacracy.org/) provides the guiding organizational principles, 
   although the user experience carefully hides detail until it is necessary.
 * People are identified by their LinkedIn profiles, to keep it real, serious, 
   and safe enough to handle significant resources.
