@@ -1,4 +1,4 @@
-Copyright (c) 2013, bounti-org
+Copyright (c) 2013, Dean Thompson.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification,
@@ -11,9 +11,15 @@ are permitted provided that the following conditions are met:
   list of conditions and the following disclaimer in the documentation and/or
   other materials provided with the distribution.
 
-  Neither the name of the {organization} nor the names of its
-  contributors may be used to endorse or promote products derived from
-  this software without specific prior written permission.
+  The attribution "powered by bounti.org" is requested, but not required,
+  as a minor but noticeable and pervasive element in any UI whose implementation
+  makes extensive use of this code. In that case, "bounti.org" should be
+  an active link to that web site.
+
+  Beyond that specific attribution, none of the names Bounti, bounti.org, 
+  Dean Thompson, nor names of other contributors may be used to endorse
+  or promote products derived from this software without specific prior written
+  permission.
 
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
 ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
