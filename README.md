@@ -3,6 +3,16 @@ bounti-org
 
 _What can't we do if we all work together?_
 
+Bounti is intended to be an online environment where people can come together and organize 
+themselves around common purposes. It is partly a discussion environment, and partly an
+organically-growing tree of Kickstarter-like projects.
+
+The backbone of Bounti is a tree of Purposes. For example, the top-level Purpose might be 
+"make the world a better place", which might eventually drill down to "stop fracking".
+But the Bounti Purpose tree might also drill down to "eliminate barriers to fracking".
+The intent is to foster reasoned discourse, find points of agreement, and then split
+the tree at legitimate points of disagreement.
+
 Purposes are drafted, discussed, improved, and organized.
 Circles form to achieve Purposes by carrying out Projects.
 Each Circle and Project can gain Backers (think continuous KickStarter).
